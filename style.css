@@ -128,7 +128,8 @@ form .fields .input-field{
     color: #fff;
     border-radius: 5px;
     margin: 25px 0;
-    background-color: #22e708;
+     background: rgb(37,98,47);
+    background: linear-gradient(90deg, rgba(37,98,47,1) 0%, rgba(130,203,66,1) 50%, rgba(47,140,72,1) 100%);
     transition: all 0.3s linear;
     cursor: pointer;
 }
