@@ -11,7 +11,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgb(30, 227, 30);
+     background: rgb(37,98,47);
+    background: linear-gradient(90deg, rgba(37,98,47,1) 0%, rgba(130,203,66,1) 50%, rgba(47,140,72,1) 100%);
 }
 .container{
 
